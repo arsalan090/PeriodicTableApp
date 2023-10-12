@@ -109,13 +109,13 @@ class Box extends StatelessWidget {
 
   List<Widget> dabba1() {
     return [
-      Containers("H", Colors.pink),
-      Containers("Li", Colors.pink),
-      Containers("Na", Colors.pink),
-      Containers("K", Colors.pink),
-      Containers("Rb", Colors.pink),
-      Containers("Cs", Colors.pink),
-      Containers("Fr", Colors.pink),
+      containers("H", Colors.pink),
+      containers("Li", Colors.pink),
+      containers("Na", Colors.pink),
+      containers("K", Colors.pink),
+      containers("Rb", Colors.pink),
+      containers("Cs", Colors.pink),
+      containers("Fr", Colors.pink),
      whiteBox(),
      whiteBox(),
      whiteBox(),
@@ -125,12 +125,12 @@ class Box extends StatelessWidget {
   List<Widget> dabba2() {
     return [
      whiteBox(),
-      Containers("Be", Colors.pink),
-      Containers("Mg", Colors.pink),
-      Containers("Ca", Colors.pink),
-      Containers("Sr", Colors.pink),
-      Containers("Ba", Colors.pink),
-      Containers("Ra", Colors.pink),
+      containers("Be", Colors.pink),
+      containers("Mg", Colors.pink),
+      containers("Ca", Colors.pink),
+      containers("Sr", Colors.pink),
+      containers("Ba", Colors.pink),
+      containers("Ra", Colors.pink),
      whiteBox(),
      whiteBox(),
      whiteBox(),
@@ -144,8 +144,8 @@ class Box extends StatelessWidget {
      whiteBox(),
      whiteBox(),
      whiteBox(),
-      Containers("La to", Colors.green),
-      Containers("Yb to", Colors.green),
+      containers("La to", Colors.green),
+      containers("Yb to", Colors.green),
      whiteBox(),
      whiteBox(),
      whiteBox(),
@@ -159,8 +159,8 @@ class Box extends StatelessWidget {
      whiteBox(),
      whiteBox(),
      whiteBox(),
-      Containers("Tb", Colors.green),
-      Containers("No", Colors.green),
+      containers("Tb", Colors.green),
+      containers("No", Colors.green),
      whiteBox(),
      whiteBox(),
      whiteBox(),
@@ -172,13 +172,13 @@ class Box extends StatelessWidget {
      whiteBox(),
      whiteBox(),
      whiteBox(),
-      Containers("Sc", Colors.blue),
-      Containers("Y", Colors.blue),
-      Containers("Lu", Colors.blue),
-      Containers("Lr", Colors.blue),
+      containers("Sc", Colors.blue),
+      containers("Y", Colors.blue),
+      containers("Lu", Colors.blue),
+      containers("Lr", Colors.blue),
      whiteBox(),
-      Containers("La", Colors.green),
-      Containers("Ac", Colors.green),
+      containers("La", Colors.green),
+      containers("Ac", Colors.green),
     ];
   }
 
@@ -187,13 +187,13 @@ class Box extends StatelessWidget {
      whiteBox(),
      whiteBox(),
      whiteBox(),
-      Containers("Ti", Colors.blue),
-      Containers("Zr", Colors.blue),
-      Containers("Hf", Colors.blue),
-      Containers("Rf", Colors.blue),
+      containers("Ti", Colors.blue),
+      containers("Zr", Colors.blue),
+      containers("Hf", Colors.blue),
+      containers("Rf", Colors.blue),
      whiteBox(),
-      Containers("Ce", Colors.green),
-      Containers("Th", Colors.green),
+      containers("Ce", Colors.green),
+      containers("Th", Colors.green),
     ];
   }
 
@@ -202,13 +202,13 @@ class Box extends StatelessWidget {
      whiteBox(),
      whiteBox(),
      whiteBox(),
-      Containers("V", Colors.blue),
-      Containers("Nb", Colors.blue),
-      Containers("Ta", Colors.blue),
-      Containers("Db", Colors.blue),
+      containers("V", Colors.blue),
+      containers("Nb", Colors.blue),
+      containers("Ta", Colors.blue),
+      containers("Db", Colors.blue),
      whiteBox(),
-      Containers("Pr", Colors.green),
-      Containers("Pa", Colors.green),
+      containers("Pr", Colors.green),
+      containers("Pa", Colors.green),
     ];
   }
 
@@ -217,13 +217,13 @@ class Box extends StatelessWidget {
      whiteBox(),
      whiteBox(),
      whiteBox(),
-      Containers("Cr", Colors.blue),
-      Containers("Mo", Colors.blue),
-      Containers("W", Colors.blue),
-      Containers("Sg", Colors.blue),
+      containers("Cr", Colors.blue),
+      containers("Mo", Colors.blue),
+      containers("W", Colors.blue),
+      containers("Sg", Colors.blue),
      whiteBox(),
-      Containers("Nd", Colors.green),
-      Containers("U", Colors.green),
+      containers("Nd", Colors.green),
+      containers("U", Colors.green),
     ];
   }
 
@@ -232,13 +232,13 @@ class Box extends StatelessWidget {
      whiteBox(),
      whiteBox(),
      whiteBox(),
-      Containers("Mn", Colors.blue),
-      Containers("Tc", Colors.blue),
-      Containers("Re", Colors.blue),
-      Containers("Bh", Colors.blue),
+      containers("Mn", Colors.blue),
+      containers("Tc", Colors.blue),
+      containers("Re", Colors.blue),
+      containers("Bh", Colors.blue),
      whiteBox(),
-      Containers("Pm", Colors.green),
-      Containers("Np", Colors.green),
+      containers("Pm", Colors.green),
+      containers("Np", Colors.green),
     ];
   }
 
@@ -247,13 +247,13 @@ class Box extends StatelessWidget {
      whiteBox(),
      whiteBox(),
      whiteBox(),
-      Containers("Fe", Colors.blue),
-      Containers("Ru", Colors.blue),
-      Containers("Os", Colors.blue),
-      Containers("Hs", Colors.blue),
+      containers("Fe", Colors.blue),
+      containers("Ru", Colors.blue),
+      containers("Os", Colors.blue),
+      containers("Hs", Colors.blue),
      whiteBox(),
-      Containers("Sm", Colors.green),
-      Containers("Pu", Colors.green),
+      containers("Sm", Colors.green),
+      containers("Pu", Colors.green),
     ];
   }
 
@@ -262,13 +262,13 @@ class Box extends StatelessWidget {
      whiteBox(),
      whiteBox(),
      whiteBox(),
-      Containers("Co", Colors.blue),
-      Containers("Rh", Colors.blue),
-      Containers("Ir", Colors.blue),
-      Containers("Mt", Colors.blue),
+      containers("Co", Colors.blue),
+      containers("Rh", Colors.blue),
+      containers("Ir", Colors.blue),
+      containers("Mt", Colors.blue),
      whiteBox(),
-      Containers("Eu", Colors.green),
-      Containers("Am", Colors.green),
+      containers("Eu", Colors.green),
+      containers("Am", Colors.green),
     ];
   }
 
@@ -277,13 +277,13 @@ class Box extends StatelessWidget {
      whiteBox(),
      whiteBox(),
      whiteBox(),
-      Containers("Ni", Colors.blue),
-      Containers("Pd", Colors.blue),
-      Containers("Pt", Colors.blue),
-      Containers("Ds", Colors.blue),
+      containers("Ni", Colors.blue),
+      containers("Pd", Colors.blue),
+      containers("Pt", Colors.blue),
+      containers("Ds", Colors.blue),
      whiteBox(),
-      Containers("Gd", Colors.green),
-      Containers("Cm", Colors.green),
+      containers("Gd", Colors.green),
+      containers("Cm", Colors.green),
     ];
   }
 
@@ -292,13 +292,13 @@ class Box extends StatelessWidget {
      whiteBox(),
      whiteBox(),
      whiteBox(),
-      Containers("Cu", Colors.blue),
-      Containers("Ag", Colors.blue),
-      Containers("Au", Colors.blue),
-      Containers("Rg", Colors.blue),
+      containers("Cu", Colors.blue),
+      containers("Ag", Colors.blue),
+      containers("Au", Colors.blue),
+      containers("Rg", Colors.blue),
      whiteBox(),
-      Containers("Tb", Colors.green),
-      Containers("Bk", Colors.green),
+      containers("Tb", Colors.green),
+      containers("Bk", Colors.green),
     ];
   }
 
@@ -307,85 +307,85 @@ class Box extends StatelessWidget {
      whiteBox(),
      whiteBox(),
      whiteBox(),
-      Containers("Zn", Colors.blue),
-      Containers("Cd", Colors.blue),
-      Containers("Hg", Colors.blue),
-      Containers("Cn", Colors.blue),
+      containers("Zn", Colors.blue),
+      containers("Cd", Colors.blue),
+      containers("Hg", Colors.blue),
+      containers("Cn", Colors.blue),
      whiteBox(),
-      Containers("Dy", Colors.green),
-      Containers("Cf", Colors.green),
+      containers("Dy", Colors.green),
+      containers("Cf", Colors.green),
     ];
   }
 
   List<Widget> dabba15() {
     return [
      whiteBox(),
-      Containers("B", Colors.yellow),
-      Containers("Al", Colors.yellow),
-      Containers("Ga", Colors.yellow),
-      Containers("In", Colors.yellow),
-      Containers("Ti", Colors.yellow),
-      Containers("Nh", Colors.yellow),
+      containers("B", Colors.yellow),
+      containers("Al", Colors.yellow),
+      containers("Ga", Colors.yellow),
+      containers("In", Colors.yellow),
+      containers("Ti", Colors.yellow),
+      containers("Nh", Colors.yellow),
      whiteBox(),
-      Containers("Ho", Colors.green),
-      Containers("Es", Colors.green),
+      containers("Ho", Colors.green),
+      containers("Es", Colors.green),
     ];
   }
 
   List<Widget> dabba16() {
     return [
      whiteBox(),
-      Containers("C", Colors.yellow),
-      Containers("Si", Colors.yellow),
-      Containers("Ge", Colors.yellow),
-      Containers("Sn", Colors.yellow),
-      Containers("Pb", Colors.yellow),
-      Containers("Fl", Colors.yellow),
+      containers("C", Colors.yellow),
+      containers("Si", Colors.yellow),
+      containers("Ge", Colors.yellow),
+      containers("Sn", Colors.yellow),
+      containers("Pb", Colors.yellow),
+      containers("Fl", Colors.yellow),
      whiteBox(),
-      Containers("Er", Colors.green),
-      Containers("Fm", Colors.green),
+      containers("Er", Colors.green),
+      containers("Fm", Colors.green),
     ];
   }
 
   List<Widget> dabba17() {
     return [
      whiteBox(),
-      Containers("N", Colors.yellow),
-      Containers("P", Colors.yellow),
-      Containers("As", Colors.yellow),
-      Containers("Sb", Colors.yellow),
-      Containers("Bi", Colors.yellow),
-      Containers("Mc", Colors.yellow),
+      containers("N", Colors.yellow),
+      containers("P", Colors.yellow),
+      containers("As", Colors.yellow),
+      containers("Sb", Colors.yellow),
+      containers("Bi", Colors.yellow),
+      containers("Mc", Colors.yellow),
      whiteBox(),
-      Containers("Tm", Colors.green),
-      Containers("Md", Colors.green),
+      containers("Tm", Colors.green),
+      containers("Md", Colors.green),
     ];
   }
 
   List<Widget> dabba18() {
     return [
      whiteBox(),
-      Containers("O", Colors.yellow),
-      Containers("S", Colors.yellow),
-      Containers("Se", Colors.yellow),
-      Containers("Te", Colors.yellow),
-      Containers("Po", Colors.yellow),
-      Containers("Lv", Colors.yellow),
+      containers("O", Colors.yellow),
+      containers("S", Colors.yellow),
+      containers("Se", Colors.yellow),
+      containers("Te", Colors.yellow),
+      containers("Po", Colors.yellow),
+      containers("Lv", Colors.yellow),
      whiteBox(),
-      Containers("Yb", Colors.green),
-      Containers("No", Colors.green),
+      containers("Yb", Colors.green),
+      containers("No", Colors.green),
     ];
   }
 
   List<Widget> dabba19() {
     return [
      whiteBox(),
-      Containers("F", Colors.yellow),
-      Containers("Cl", Colors.yellow),
-      Containers("Br", Colors.yellow),
-      Containers("I", Colors.yellow),
-      Containers("At", Colors.yellow),
-      Containers("Ts", Colors.yellow),
+      containers("F", Colors.yellow),
+      containers("Cl", Colors.yellow),
+      containers("Br", Colors.yellow),
+      containers("I", Colors.yellow),
+      containers("At", Colors.yellow),
+      containers("Ts", Colors.yellow),
      whiteBox(),
      whiteBox(),
      whiteBox(),
@@ -394,20 +394,20 @@ class Box extends StatelessWidget {
 
   List<Widget> dabba20() {
     return [
-      Containers("He", Colors.pink),
-      Containers("Ne", Colors.yellow),
-      Containers("Ar", Colors.yellow),
-      Containers("Kr", Colors.yellow),
-      Containers("Xe", Colors.yellow),
-      Containers("Rn", Colors.yellow),
-      Containers("Og", Colors.yellow),
+      containers("He", Colors.pink),
+      containers("Ne", Colors.yellow),
+      containers("Ar", Colors.yellow),
+      containers("Kr", Colors.yellow),
+      containers("Xe", Colors.yellow),
+      containers("Rn", Colors.yellow),
+      containers("Og", Colors.yellow),
      whiteBox(),
      whiteBox(),
      whiteBox(),
     ];
   }
 
-  Container Containers(String text, Color mcolor) {
+  Container containers(String text, Color mcolor) {
     return Container(
       height: 40,
       width: 40,
